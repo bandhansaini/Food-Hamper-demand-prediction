@@ -33,9 +33,5 @@ Geographical Analysis:
 
 Mapping demand using postal codes and geographic coordinates.
 Using tools like Folium for interactive maps to visualize demand distribution.
-Deliverables:
-Cleaned datasets for analysis.
-Visualizations of historical trends and predictive insights.
-Prediction models to estimate future demand for food hampers.
-Insights into demand drivers, including holidays and geographical factors.
+
 This project involves a mix of data cleaning, exploratory analysis, feature engineering, and predictive modeling to provide actionable insights for managing food hamper distribution effectively.
